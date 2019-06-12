@@ -1,4 +1,3 @@
 <?php
 
-echo "this is test git";
-
+echo "第一个版本的文件";
